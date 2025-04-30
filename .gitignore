@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore temporary or draft files
+ai-slop.py
+astro2.py
+astro-draft.py
+env_check.py
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
