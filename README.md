@@ -16,13 +16,16 @@ Ada Lovelace, 1815-12-10, Sagittarius,
 
 | Purpose | Library |
 |---------|---------|
-| HTTP calls | `requests` |
-| Data & CSV export | `pandas` |
-| Virtual environment | `venv/` (git-ignored) |
+| HTTP call | `requests` |
+| Data collection & CSV export | `pandas` |
+| Virtual environment | `venv/` (ignored via `.gitignore`) |
 
-| Purpose | Library |
-|---------|---------|
-| HTTP calls | `requests` |
-| Data & CSV export | `pandas` |
-| Virtual environment | `venv/` (git-ignored) |
+Python-Zodiac-Sign/
+│
+├── astro.py              # main script (CLI + API client + zodiac helper)
+├── zodiac_results.csv    # generated at runtime
+├── requirements.txt      # requests, pandas
+├── venv/                 # local virtual-env (git-ignored)
+└── .gitignore
+
 
