@@ -1,6 +1,6 @@
 # Ignore the virtual environment
 venv/
-
+.venv/
 # Ignore temporary or draft files
 ai-slop.py
 astro2.py
