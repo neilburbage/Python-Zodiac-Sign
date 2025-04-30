@@ -2,7 +2,7 @@
 
 ```bash
 python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
+source venv/bin/activate # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python astro.py
                
@@ -14,11 +14,12 @@ Ada Lovelace, 1815-12-10, Sagittarius,
 "Today could be filled with…
 
 
-| Purpose | Library |
-|---------|---------|
-| HTTP call | `requests` |
-| Data collection & CSV export | `pandas` |
-| Virtual environment | `venv/` (ignored via `.gitignore`) |
+| Purpose                     | Library   |
+|-----------------------------|-----------|
+| HTTP requests               | requests  |
+| Data handling & CSV export  | pandas    |
+| Project-local environment   | venv/     |
+
 
 Python-Zodiac-Sign/
 │
