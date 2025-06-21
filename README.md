@@ -31,6 +31,16 @@ ___
 
 ---
 
+### Save your reading to CSV
+
+<small>
+<strong><em>After each horoscope reading a new blank prompt will appear below.</em></strong><br>
+<strong><em>Just hit Enter twice (an empty line, then Enter again), and you’ll see:</em></strong><br>
+<strong><em>A saved CSV with wrapped text. zodiac_results.csv in the project root.</em></strong><br>
+</small>
+
+---
+
 ### Dependencies guide
 
 | Purpose                     | Library  |
