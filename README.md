@@ -1,4 +1,5 @@
-### Python Zodiac Sign
+# Python Zodiac Sign
+
 **Discover your star sign and grab a daily horoscope reading.**   
 **Behold... this is the crystal ball that you always wanted.**
 
@@ -6,7 +7,7 @@
 
 ### Quick start 
 **Clone this repo:**  
-```git clone git@github.com:neilburbage/Python-Zodiac-Sign.git```  
+```git clone git@github.com:neilburbage/Python-Zodiac-Sign```  
 **Make sure you've added your SSH key first:**   
 ```https://docs.github.com/en/authentication/connecting-to-github-with-ssh```    
 ```cd Python-Zodiac-Sign```  
